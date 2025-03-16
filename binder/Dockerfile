@@ -1,0 +1,1 @@
+FROM nevermind78/binderjupyter:latest
