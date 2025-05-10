@@ -1,1 +1,1 @@
-FROM nevermind78/binderjupyter:latest
+FROM nevermind78/binderjupyter:v1
